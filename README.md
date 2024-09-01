@@ -9,7 +9,7 @@ Willing to do a lot Open source Contributions🌟</h3>
  <br/>
 
 ## 🌐 Connect me 📌:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kalimshaikh78)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kalimshaikh78)
 [![GitHub Badge](https://img.shields.io/badge/-KalimGithub-black?style=flat&logo=github&logoColor=white)](https://github.com/KalimGihtub)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/22kalimshaikh) 
 [![Gmail Badge](https://img.shields.io/badge/-sk22kalim@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sk22kalim@gmail.com)
