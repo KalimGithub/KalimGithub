@@ -5,7 +5,7 @@ Willing to do a lot Open source Contributions🌟</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0"/>
 
 ## 📄 Resume:
-[![Resume Badge](https://img.shields.io/badge/-Download%20Resume-blue?style=flat&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Z2Me1ydBw7XdMGQPEGiHoW9lKihzjZ7l/view)
+[![Resume Badge](https://img.shields.io/badge/-Download%20Resume-blue?style=flat&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1SJCl940Y36fdGX9HXhZY3Znsg5xUjZem/view)
  <br/>
 
 ## 🌐 Connect me 📌:
